@@ -1,0 +1,7 @@
+.headerpr {
+    background: url(banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+}
