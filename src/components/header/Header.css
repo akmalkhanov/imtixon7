@@ -1,7 +1,4 @@
 .header {
-    background: url(banner2.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 700px;
+    background: "rgba(13, 38, 18, 1)";
     width: 100%;
 }
